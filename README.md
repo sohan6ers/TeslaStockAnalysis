@@ -1,6 +1,6 @@
 # Tesla Stock Analysis
 ## Details
-The Tesla Stock Analysis project was done using statistical analysis and tools available through Eviews.
+The Tesla Stock Analysis project was done using statistical tehniques whilst leveraging mathematical tools available through Eviews.
 The analysis includes:
 - Data transformation
 - Univariate Time Series Modelling
